@@ -10,3 +10,4 @@ jupyterlab
 matplotlib
 ipywidgets
 seaborn
+opencv-python

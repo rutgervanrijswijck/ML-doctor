@@ -1,3 +1,5 @@
 gpu_env_312
 /gpu_env_312
 best_vit_base.pth
+best_vit_base1.pth
+.env
